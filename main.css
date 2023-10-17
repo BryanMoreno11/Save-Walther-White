@@ -1,0 +1,157 @@
+body{
+    background-image:url(https://drive.google.com/uc?export=dowload&id=1XUHcrJ5eAhvk_X4fAwnCJVtonBnL7UoQ);
+  color: white;
+    font-family: Comic Sans,Comic Sans MS,cursive;
+}
+.cuerpo{
+    margin: auto 15%;
+}
+
+h1{
+    text-align: center;
+    font-size: 112px;
+    margin: auto;
+    font-family: times,helvetic,sans-serif;
+    padding-top: 12px;
+
+}
+h2{
+    font-size: 40px;
+	font-weight: normal;
+    text-align: center;
+    margin: auto;
+    color: #fff54f;
+}
+.principal{
+    display: block;
+    margin: auto;
+}
+
+
+.yellow{
+    color: #fff54f;
+}
+.walther{
+    font-size: 30px;
+}
+.white{
+    font-size: 25px;
+}
+
+ul{
+    list-style: none;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: end;
+}
+
+.family{
+    display: block;
+    margin: auto;
+}
+.skyler{
+    display: flex;
+    justify-content: space-around;
+}
+.chemestry{
+    font-size: 21px;
+    font-weight: bold;
+}
+.final{
+    color: #fff54f;
+    font-size: 42px;
+    text-align: center;
+}
+#help{
+    color: #ffe107;
+    font-weight: bold;
+}
+a img{
+    display: block;
+    margin: auto;
+    padding-bottom: 40px;
+}
+.visitors{
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+footer {
+    text-align: center;
+}
+footer a{
+color: white;
+padding-right: 20px;
+}
+.copyright{
+    text-align: center;
+    font-size:12px;
+    color: black;
+}
+@media screen  and (max-width:450px) {
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 17px;
+    font-weight: bold;
+}
+.principal{
+    width: 60%;
+    height: auto;
+    margin-bottom: 10px;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    justify-content: space-evenly;
+    padding-bottom: 20px;
+}
+
+ul li img{
+    max-width: 90%;
+    height: auto;
+}
+.family{
+    width: 60%;
+}
+.walther{
+  
+    font-size: 15px;
+    font-weight: bold;
+}
+.white{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.skyler img{
+    width: 35%;
+}
+.chemestry{
+    font-size: 14px;
+}
+.final{
+    font-weight: bold;
+    font-size: 17px;
+}
+
+a img{
+   width: 100%;
+   height: auto;
+   padding-bottom: 15px;
+}
+#donate{
+    width: 50%;
+   height: auto;
+}
+.visitors{
+    width: 100%;
+   height: auto;
+}
+footer{
+    font-size: 8px;
+}
+
+}
